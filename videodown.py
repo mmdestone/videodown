@@ -41,6 +41,6 @@ class ProgressData(object):
 
 if __name__ == '__main__':
     url = "http://f.us.sinaimg.cn/000bIRNylx07uBalSO1y0104120cNh4r0E050.mp4?label=mp4_hd&template=640x360.28.0&Expires=1561614590&ssig=KYl0nz%2BLey&KID=unistore,video"
-    path = "C:/Users/Kungs/Desktop/悬崖上的金鱼公主.mp4"
+    path = "G:/download/悬崖上的金鱼公主.mp4"
     download_file(url, path)
 
