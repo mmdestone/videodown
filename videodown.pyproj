@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>055ad179-a1ae-40b2-969e-6375eb3f0f5a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>videodown.py</StartupFile>
+    <StartupFile>video3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ershoufang.py" />
+    <Compile Include="video1.py" />
+    <Compile Include="video2.py" />
+    <Compile Include="video3.py" />
+    <Compile Include="video4.py" />
     <Compile Include="videodown.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
